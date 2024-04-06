@@ -7,7 +7,9 @@ In this project, I'm Deploying ML application using CI CD Pipelines in AWS cloud
 - GitHub: Integrated with CodePipeline for version control and automatic deployment.
 
 ## Impact
-Streamlined the deployment process, reducing manual intervention and minimizing deployment errors. This approach enhanced the project's scalability and reliability, allowing for swift updates and ensuring a seamless user experience. The use of CI/CD pipelines increased development efficiency and facilitated collaboration among team members, ultimately leading to faster project delivery and improved overall productivity.
+- Streamlined the deployment process, reducing manual intervention and minimizing deployment errors.
+- This approach enhanced the project's scalability and reliability, allowing for swift updates and ensuring a seamless user experience.
+- The use of CI/CD pipelines increased development efficiency and facilitated collaboration among team members, ultimately leading to faster project delivery and improved overall productivity.
 
 ## Deployed on AWS :)
 1)  ![Screenshot (442)](https://github.com/raushan9jnv/ML-Project-Deployment-In-AWS-Elastic-Beanstalk-Using-CICD-Pipelines/assets/86125144/14ee2b10-7e74-426f-8021-d8dde630fb90)
